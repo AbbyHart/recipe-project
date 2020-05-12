@@ -17,7 +17,7 @@ ul {
   margin-bottom: 0;
 }
 ol,
-ul, {
+ul {
   padding-left: 0;
 }
 dd{
@@ -43,9 +43,9 @@ nav li {
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-top: 1px dashed #000;
-  padding-left: -4rem;
+  padding-left: 4rem;
 }
-.list li: first-child {
+.list li  {
   border-top: 0;
 }
 .Your {
