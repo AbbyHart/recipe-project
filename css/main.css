@@ -81,6 +81,9 @@ font-size: 2rem
   width: 200px;
   padding-top: 0rem;
 }
+a {
+  color: orange;
+}
 
 
 
